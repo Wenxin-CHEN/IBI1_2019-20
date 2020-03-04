@@ -1,0 +1,3 @@
+1.How can I revert(delete) all commits after a certain commit?
+2.when I open the latest commit, I can only see the latest change I've made. 
+If I want to know what the repository contains, I have to go through each step(commit) which seems inconvenient.
