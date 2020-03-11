@@ -1,6 +1,6 @@
 # What does this piece of code do?
 # Answer: 
-
+#find prime number between 1 and 100
 # Import libraries
 # randint allows drawing a random number, 
 # e.g. randint(1,5) draws a number between 1 and 5
