@@ -13,7 +13,10 @@ x=14
 while a!=0:
     if 2**x<=a:
         a-=2**x
-        b+="2^"+str(x)+"+"
+        if a!=0:
+            b+="2^"+str(x)+"+"
+        else:
+            b+="2^"+str(x)
         x=x-1
     else:
         x=x-1
