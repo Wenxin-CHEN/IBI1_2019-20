@@ -1,0 +1,8 @@
+Are there places where there had more than 10000 total infections on March 31? If so, where are they?
+
+start at line 61
+
+I expected a list of locations where had a relative high number of  total infections according to the latest data on March 31.
+The list agrees with my expectation and it can tell us which places were affected most seriously up to March 31.
+I extracted the total number and data of each row respectively and judge if they are in agreement with my setting. If so, the row
+would be presented with the only column of location.
