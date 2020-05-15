@@ -30,7 +30,7 @@ for t in range(0,1000):
     sus.append(sus[t]-num_inf)
     inf.append(inf[t]+num_inf-num_rec)
     rec.append(rec[t]+num_rec)
-    T.append(t)
+    T.append(t+1)
 #plot the picture
 plt.plot(T,inf,label='infected')
 plt.plot(T,sus,label='susceptibles')
