@@ -1,0 +1,10 @@
+    Doing practicals is the best way to help me get command of the skills learnt in the lectures. Remembering is not the purpose of studying
+python, which means reciting the information given in lecture is far from using python proficiently. What I need to learn is the ability to look
+for references properly and then solve the problems with my own logic.
+    During the first few practicals, I find it easy to finish the task. However, since practical 11 where we should use recursion to complete 24
+points, I have to ask many questions and browse through many webpage to look for help where I have to spend many times. The reason might 
+be that as the complexity of the context mounting, it seems difficult for me to understand the knowledge well enough just after the lectures.
+If I do the practice without reviewing the lecture first, it will waste me a lot of time. Therefore, it is suggested that I should have a fundamental
+understanding of the lecture and then checkout my comprehension through trial and error.
+    I find that abstract or logical thinking-pattern is difficult for me, for example those which are applied in 'recursion' and 'class'. From my
+points of view, the only way to do solve this is to do more practices, keep patient and don't be afraid of trying.

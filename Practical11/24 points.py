@@ -4,10 +4,16 @@ Created on Fri Apr 24 12:40:35 2020
 
 @author: 陈文心
 """
+import sys
 #read four numbers and change them into interger which are stored in list
 four_number_input=input('please input four intergers between 1 and 23:(use comma to separate them)')
 list1=four_number_input.split(',')
+#change the input string to int    
 list1=[int(x)for x in list1]
+for i in list1:
+    if i<1 or i>23:
+        print('please input intergers between 1 and 23')
+        sys.exit(0)
 #try all numbers and symbols to test if the result can be 24, using 'for in + if'
 #'one, two, three and four'are used to store extracted numbers
 #if one is extracted from list 1, the following extracted number can only be chosen from list2 which deletes one
